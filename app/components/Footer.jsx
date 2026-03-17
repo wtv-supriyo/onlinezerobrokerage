@@ -3,7 +3,7 @@ const Footer = () => {
     <footer className="border-t border-gray-800 px-6 py-8 bg-black text-center text-gray-400">
 
       <h2 className="text-lg font-semibold text-green-400 mb-2">
-        BestStockBrokerIndia
+        BestStockbrokerIndia
       </h2>
 
       <p className="text-sm mb-4">
@@ -18,7 +18,7 @@ const Footer = () => {
       </div>
 
       <p className="text-xs text-gray-500">
-        © {new Date().getFullYear()} BestStockBrokerIndia. All rights reserved.
+        © {new Date().getFullYear()} BestStockbrokerIndia. All rights reserved.
       </p>
     </footer>
   );
