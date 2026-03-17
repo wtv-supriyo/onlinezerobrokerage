@@ -14,7 +14,7 @@ const WhyChoose = () => {
         viewport={{ once: true }}
         variants={fadeUp}
         transition={{ duration: 1, delay: 0.5 }}
-        className="relative z-10 max-w-5xl mx-auto border border-green-100/20 mt-20 px-6 py-16 text-center bg-gradient-to-b from-green-900/30 to-green rounded-lg shadow-lg"
+        className="relative z-10 max-w-5xl mx-auto border border-green-100/20  px-6 py-16 text-center bg-gradient-to-b from-green-900/30 to-green rounded-lg shadow-lg"
       >
         <h2 className="text-4xl font-extrabold mb-12 text-white">
           Why Choose Us?

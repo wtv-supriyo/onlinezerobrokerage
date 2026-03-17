@@ -4,7 +4,6 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import ComingSoon from "./ComingSoon";
-import CountdownTimer from "./CountdownTimer";
 import FeatureTags from "./FeatureTags";
 import WhyChoose from "./WhyChoose";
 
@@ -74,8 +73,7 @@ export default function HomePage() {
         {/* Feature tags */}
         <FeatureTags/>
 
-        {/* Countdown Timer */}
-        <CountdownTimer/>
+       
       </motion.div>
 
       <WhyChoose/>
