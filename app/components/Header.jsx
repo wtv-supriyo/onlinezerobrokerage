@@ -27,7 +27,7 @@ const Header = () => {
           >
             <path d="M3 12l2-2 4 4 8-8 2 2-10 10-6-6z" />
           </svg>
-          <span>BestStockbrokerIndia</span>
+          <span>onlinezerobrokerage</span>
         </Link>
 
         {/* Desktop Nav */}
